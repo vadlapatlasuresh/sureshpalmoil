@@ -1,0 +1,17 @@
+C:\Users\suresh>keytool -genkey -alias https-palmoilproject -storetype JKS -keyalg RSA -keysize 2048 -validity 365 -keystore https-palmoilproject.jks
+Enter keystore password:
+Re-enter new password:
+What is your first and last name?
+  [Unknown]:  suresh vadlapatla
+What is the name of your organizational unit?
+  [Unknown]:  oil
+What is the name of your organization?
+  [Unknown]:  palmoil
+What is the name of your City or Locality?
+  [Unknown]:  eluru
+What is the name of your State or Province?
+  [Unknown]:  andhrapradesh
+What is the two-letter country code for this unit?
+  [Unknown]:  in
+Is CN=suresh vadlapatla, OU=oil, O=palmoil, L=eluru, ST=andhrapradesh, C=in correct?
+  [no]:  yes
